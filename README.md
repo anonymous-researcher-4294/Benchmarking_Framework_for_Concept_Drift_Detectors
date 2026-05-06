@@ -98,7 +98,7 @@ This project builds upon several existing open-source libraries and publicly ava
 
 - **CapyMOA**  
   Website: https://capymoa.org/  
-  License: Apache License 2.0
+  License: Apache License 2.0  
   Citation: Gomes, Heitor Murilo, et al. "Capymoa: Efficient machine learning for data streams in python." arXiv preprint arXiv:2502.07432 (2025).
 
 - **NumPy**  
