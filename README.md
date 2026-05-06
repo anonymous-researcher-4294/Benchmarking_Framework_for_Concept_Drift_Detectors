@@ -94,7 +94,7 @@ This project builds upon several existing open-source libraries and publicly ava
 - **MOA (Massive Online Analysis)**  
   Website: https://moa.cms.waikato.ac.nz/  
   License: GNU General Public License (GPL v3)  
-  Citation: Bifet et al., 2010
+  Citation: Bifet, Albert, et al. Machine learning for data streams: with practical examples in MOA. MIT press, 2023.
 
 - **CapyMOA**  
   Website: https://capymoa.org/  
