@@ -79,4 +79,47 @@ jpype1==1.6.0
 typing_extensions
 ```
 
+## Third-Party Assets and Licenses
+
+This project builds upon several existing open-source libraries and publicly available datasets.
+
+### Libraries and Frameworks
+
+- **MOA (Massive Online Analysis)**  
+  Website: https://moa.cms.waikato.ac.nz/  
+  License: GNU General Public License (GPL v3)  
+  Citation: Bifet et al., 2010
+
+- **CapyMOA**  
+  Website: https://capymoa.org/  
+  License: Apache License 2.0  
+  Citation: Gomes et al., 2025
+
+- **NumPy**  
+  License: BSD 3-Clause License
+
+- **PyTorch**  
+  License: BSD-style license
+
+- **JPype1**  
+  License: Apache License 2.0
+
+### Datasets
+
+The benchmark uses publicly available datasets and synthetic generators.
+
+- **INSECTS Dataset**  
+  Source: Souza et al., 2020  
+  License: please refer to the original dataset distribution and terms of use.
+
+- **Synthetic Streams**
+  - AgrawalGenerator
+  - RandomTreeGenerator
+  - SEA Generator
+  - SineGenerator
+
+These generators are distributed through MOA and follow the corresponding MOA licensing terms.
+
+Datasets are not redistributed in this repository. Users should download them from the original sources and comply with their respective licenses and terms of use.
+
 ## Citation
