@@ -34,15 +34,6 @@ code:
 
 ## Dataset Setup
 
-Due to size constraints, datasets are not included in this repository.
-
-They can be downloaded automatically using:
-
-```bash
-pip install requests
-python code/data/download_datasets.py
-```
-
 For double-blind review, datasets are not redistributed from an author-owned archive. Please download them from the original public sources following the instructions in `code/data/download_datasets.py`. A permanent archival mirror will be added after the review period.
 
 ---
