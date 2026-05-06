@@ -114,9 +114,9 @@ This project builds upon several existing open-source libraries and publicly ava
 
 The benchmark uses publicly available datasets and synthetic generators.
 
-- **INSECTS Dataset**
-  License: please refer to the original dataset distribution and terms of use.
-  Citation: Souza, Vinicius MA, et al. "Challenges in benchmarking stream learning algorithms with real-world data." Data Mining and Knowledge Discovery 34.6 (2020): 1805-1858.
+- **INSECTS Dataset**  
+  License: please refer to the original dataset distribution and terms of use.  
+  Citation: Souza, Vinicius MA, et al. "Challenges in benchmarking stream learning algorithms with real-world data." Data Mining and Knowledge Discovery 34.6 (2020): 1805-1858.  
 
 - **Synthetic Streams**
   - AgrawalGenerator
