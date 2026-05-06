@@ -99,7 +99,6 @@ This project builds upon several existing open-source libraries and publicly ava
 - **CapyMOA**  
   Website: https://capymoa.org/  
   License: Apache License 2.0
-  
   Citation: Gomes, Heitor Murilo, et al. "Capymoa: Efficient machine learning for data streams in python." arXiv preprint arXiv:2502.07432 (2025).
 
 - **NumPy**  
@@ -115,9 +114,9 @@ This project builds upon several existing open-source libraries and publicly ava
 
 The benchmark uses publicly available datasets and synthetic generators.
 
-- **INSECTS Dataset**  
-  Citation: Souza, Vinicius MA, et al. "Challenges in benchmarking stream learning algorithms with real-world data." Data Mining and Knowledge Discovery 34.6 (2020): 1805-1858.
+- **INSECTS Dataset**
   License: please refer to the original dataset distribution and terms of use.
+  Citation: Souza, Vinicius MA, et al. "Challenges in benchmarking stream learning algorithms with real-world data." Data Mining and Knowledge Discovery 34.6 (2020): 1805-1858.
 
 - **Synthetic Streams**
   - AgrawalGenerator
