@@ -79,6 +79,12 @@ jpype1==1.6.0
 typing_extensions
 ```
 
+## License
+
+This repository is released under the MIT License.
+
+The project depends on third-party libraries and frameworks, including MOA and CapyMOA, which are distributed under their own respective licenses. Users must comply with the license terms of these external dependencies.
+
 ## Third-Party Assets and Licenses
 
 This project builds upon several existing open-source libraries and publicly available datasets.
