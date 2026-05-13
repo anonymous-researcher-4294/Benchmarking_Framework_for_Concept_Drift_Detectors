@@ -72,9 +72,9 @@ typing_extensions
 
 ## License
 
-This repository is released under the MIT License.
+This repository is released under the GNU General Public License v3.0 (GPL-3.0).
 
-The project depends on third-party libraries and frameworks, including MOA and CapyMOA, which are distributed under their own respective licenses. Users must comply with the license terms of these external dependencies.
+The Java components in this repository are implemented against the MOA API and are intended to be used within the MOA/CapyMOA ecosystem. Since MOA is distributed under GPL-3.0, this repository is released under GPL-3.0 for license compatibility.
 
 ## Third-Party Assets and Licenses
 
